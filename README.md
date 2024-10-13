@@ -1,4 +1,5 @@
-👋 Olá, eu sou [Talita Nunes]
+👋 Olá, eu sou Talita Nunes
+
 🎯 Desenvolvedora Fullstack em formação | Transição de carreira | Apaixonada por Tecnologia
 
 Estou em transição de carreira para a área de TI, com foco em desenvolvimento Fullstack. Tenho experiência em Python, desenvolvimento web, e estou sempre buscando aprender mais sobre Machine Learning e inteligência artificial.
