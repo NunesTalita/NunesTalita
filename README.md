@@ -9,8 +9,9 @@ Linguagens: Python, Lógica de Programação e Algoritmos
 
 📚 Formação
 Análise e Desenvolvimento de Sistemas | 2º período
-Bootcamp Fullstack Developer | XP Inc.
+Bootcamp Fullstack Developer | XP Inc.|
 Mundos: 1, 2 e 3 Python - Prof Gustavo Guanabara
+
 Certificações: Python Fundamentals, Machine Learning e Inteligência Artificial.
 
 📌 Projetos
