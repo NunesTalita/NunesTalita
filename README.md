@@ -6,6 +6,7 @@ Estou em transição de carreira para a área de TI, com foco em desenvolvimento
 
 🚀 Habilidades
 Linguagens: Python, Lógica de Programação e Algoritmos
+
 📚 Formação
 Análise e Desenvolvimento de Sistemas | 2º período
 Bootcamp Fullstack Developer | XP Inc.
