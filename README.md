@@ -5,7 +5,7 @@
 Estou em transição de carreira para a área de TI, com foco em desenvolvimento Fullstack. Tenho experiência em Python, desenvolvimento web, e estou sempre buscando aprender mais sobre Machine Learning e inteligência artificial.
 
 🚀 Habilidades
-Linguagens: Python, Lógica de Programação e Algoritmos
+Python | HTML | CSS | Lógica de Programação | Algoritmos
 
 📚 Formação
 Análise e Desenvolvimento de Sistemas | 2º período
